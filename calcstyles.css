@@ -1,0 +1,16 @@
+body {
+  background-color: DarkGrey;
+}
+
+#calcDisplay {
+  width: 296px;
+  height: 30px;
+  background-color: White;
+  color: Black;
+}
+
+button {
+  margin: 7px;
+  width: 60px;
+  height: 30px;
+}
