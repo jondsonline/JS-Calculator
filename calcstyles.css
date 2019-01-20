@@ -3,10 +3,12 @@ body {
 }
 
 #calcDisplay {
-  width: 296px;
+  width: 292px;
   height: 30px;
+  padding: 2px;
   background-color: White;
   color: Black;
+  text-align: right;
 }
 
 button {
